@@ -20,6 +20,7 @@ Instructors
 
 - David Žihala, Department of Biology and Ecology, University of Ostrava, Czech Republic
 - N. Ezgi Altınışık, Department of Anthropology, Hacettepe University, Turkey
+- Eren Yüncü, Department of Biology and Ecology, University of Ostrava, Czech Republic
 
 ## Preliminary Program
 
